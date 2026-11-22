@@ -163,6 +163,8 @@ body{font-family:'Georgia',serif;background:var(--bg);color:var(--txt);display:f
 <div id="cart-items"><p class="cart-empty">You haven't added any wines yet</p></div>
 <div class="cart-total" id="cart-total"></div>
 <button id="cart-discount-btn" onclick="toggleDiscount()" style="display:none;background:var(--gold);color:#fff;border:none;border-radius:6px;padding:9px 12px;font-size:13px;cursor:pointer;width:100%;margin-bottom:8px;font-weight:600">🏷️ Apply 10% discount</button>
+<button id="btn-card" onclick="payByCard()" style="display:none;width:100%;padding:12px;border:none;border-radius:6px;background:#2c1810;color:#fff;font-size:14px;font-weight:600;cursor:pointer;margin-bottom:8px">💳 Pay by card · Apple Pay · Google Pay</button>
+<p id="card-note" style="display:none;font-size:11px;color:var(--txt2);margin:-2px 0 10px;text-align:center">Secure payment by Stripe. Alcohol sold only to adults aged 18+.</p>
 <button id="btn-whatsapp" onclick="sendWhatsApp()">📱 Send order on WhatsApp</button>
 <button id="btn-close-cart" onclick="closeCart()">Close</button>
 </div>
@@ -265,6 +267,21 @@ const obs=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersec
 sections.forEach(s=>obs.observe(s));
 
 (function(){const ix={};W.forEach((w,i)=>ix[w.n]=i);document.querySelectorAll('img[data-wn]').forEach(im=>{const i=ix[im.dataset.wn];if(i!==undefined)im.src=cardImg(i)})})();
+
+// ---- Card payment (Stripe Checkout via the envinando worker) ----
+const CHECKOUT_URL='https://envinando-checkout.gustavoggb76.workers.dev/checkout';
+if(CHECKOUT_URL){document.getElementById('btn-card').style.display='block';document.getElementById('card-note').style.display='block'}
+async function payByCard(){
+  const t=totals();if(!t.items.length)return;
+  const b=document.getElementById('btn-card'),old=b.textContent;b.disabled=true;b.textContent='Opening secure payment…';
+  try{
+    const items=t.items.map(([k,i])=>i.lot?{id:k,lot:true,qty:i.qty}:{name:i.nombre,qty:i.qty});
+    const r=await fetch(CHECKOUT_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items,discount:!!discountActive})});
+    const d=await r.json();if(!r.ok||!d.url)throw new Error(d.error||'Payment could not start');
+    location.href=d.url;
+  }catch(e){alert('Sorry, the card payment could not be started. Please try again or send your order on WhatsApp.');b.disabled=false;b.textContent=old}
+}
+(function(){const q=new URLSearchParams(location.search);if(q.get('paid')==='1'){const m=document.createElement('div');m.style.cssText='position:fixed;top:0;left:0;right:0;z-index:9999;background:#5a9e6f;color:#fff;padding:14px;text-align:center;font-size:15px';m.textContent='Thank you! Your payment was received. We will contact you shortly to arrange delivery.';document.body.appendChild(m);setTimeout(()=>m.remove(),9000)}})();
 </script>
 </body>
 </html>
