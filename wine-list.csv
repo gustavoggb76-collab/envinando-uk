@@ -1,0 +1,327 @@
+name,vintage,producer,region,country,type,grape,bottle_size,price_gbp_single_bottle,price_gbp_per_bottle_in_6,in_stock,url
+Aalto,2023,Aalto,Ribera del Duero,Spain,Red,Tempranillo,75cl,42.53,40.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#aalto
+Aalto PS,2023,Aalto,Ribera del Duero,Spain,Red,Tempranillo,75cl,90.20,85.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#aalto-ps
+Aalto Magnum,2023,Aalto,Ribera del Duero,Spain,Red,Tempranillo,1.5L,99.23,94.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#aalto-magnum
+Aalto PS Magnum,2020,Aalto,Ribera del Duero,Spain,Red,Tempranillo,1.5L,236.25,225.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#aalto-ps-magnum
+Arzuaga Crianza,2023,Arzuaga,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot",75cl,23.10,22.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#arzuaga-crianza
+Arzuaga Reserva,2021,Arzuaga,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot",75cl,37.75,35.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#arzuaga-reserva
+Ausás Interpretación,2023,Ausás Bodegas y Viñedos,Ribera del Duero,Spain,Red,Tempranillo,75cl,46.67,44.45,yes,https://envinando.co.uk/ribera-del-duero-wine.html#ausas-interpretacion
+Figuero Viñas Viejas,2021,Bodegas Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,31.97,30.45,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-vinas-viejas
+Figuero Pago Torrosillo,2019,Bodegas Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,71.40,68.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-pago-torrosillo
+Figuero Noble,2017,Bodegas Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,71.61,68.20,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-noble
+Figuero Tinus,2017,Bodegas Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,236.25,225.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-tinus
+Lopez Cristobal Crianza,2019,Bodegas Lopez Cristobal,Ribera del Duero,Spain,Red,"Tempranillo, Merlot",75cl,16.70,15.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#lopez-cristobal-crianza
+Cepa Gavilán,2020,Bodegas Perez Pascuas,Ribera del Duero,Spain,Red,Tempranillo,75cl,17.63,16.79,yes,https://envinando.co.uk/ribera-del-duero-wine.html#cepa-gavilan
+Viña Pedrosa Reserva,2020,Bodegas Perez Pascuas,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,38.38,36.55,yes,https://envinando.co.uk/ribera-del-duero-wine.html#vina-pedrosa-reserva
+Full Flap Red Blend NV,2023,Bodegas Vilano,Ribera del Duero,Spain,Red,"Tempranillo, Merlot, Cabernet",75cl,9.70,9.24,yes,https://envinando.co.uk/ribera-del-duero-wine.html#full-flap-red-blend-nv
+Punta Esencia,2022,Bodegas y Viñedos Neo,Ribera del Duero,Spain,Red,Tempranillo,75cl,30.98,29.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#punta-esencia
+Bosque de Matasnos Etiqueta Blanca,2023,Bosque de Matasnos,Ribera del Duero,Spain,Red,Tempranillo blend,75cl,35.18,33.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#bosque-de-matasnos-etiqueta-blanca
+Bosque de Matasnos Edición Limitada,2019,Bosque de Matasnos,Ribera del Duero,Spain,Red,Tempranillo blend,75cl,47.20,44.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#bosque-de-matasnos-edicion-limitada
+Carmelo Rodero 9 Meses,2024,Carmelo Rodero,Ribera del Duero,Spain,Red,Tempranillo,75cl,16.28,15.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-9-meses
+Carmelo Rodero Crianza,"2022, 2023",Carmelo Rodero,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,24.47,23.30,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-crianza
+Carmelo Rodero 9 Meses Magnum,2021,Carmelo Rodero,Ribera del Duero,Spain,Red,Tempranillo,1.5L,31.40,29.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-9-meses-magnum
+Carmelo Rodero Reserva,2022,Carmelo Rodero,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,39.32,37.45,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-reserva
+Carmelo Rodero Crianza Magnum,2022,Carmelo Rodero,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",1.5L,52.40,49.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-crianza-magnum
+Pago De Valtarreña,2022,Carmelo Rodero,Ribera del Duero,Spain,Red,Tempranillo,75cl,56.60,53.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#pago-de-valtarrena
+Carmelo Rodero TSM,2021,Carmelo Rodero,Ribera del Duero,Spain,Red,"Tempranillo, Merlot, Cabernet Sauvignon",75cl,71.09,67.70,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-tsm
+Carmelo Rodero Reserva Magnum,2022,Carmelo Rodero,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",1.5L,79.28,75.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#carmelo-rodero-reserva-magnum
+Hito,2024,Cepa21,Ribera del Duero,Spain,Red,Tempranillo,75cl,13.13,12.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#hito
+Cepa 21,2022,Cepa21,Ribera del Duero,Spain,Red,Tempranillo,75cl,19.83,18.89,yes,https://envinando.co.uk/ribera-del-duero-wine.html#cepa-21
+Malabrigo,2022,Cepa21,Ribera del Duero,Spain,Red,Tempranillo,75cl,40.90,38.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#malabrigo
+Horcajo,2020,Cepa21,Ribera del Duero,Spain,Red,Tempranillo,75cl,94.45,89.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#horcajo
+Dominio Del Pidio Blanco,2024,Cillar de Silos,Ribera del Duero,Spain,White,Albillo,75cl,47.51,45.25,yes,https://envinando.co.uk/ribera-del-duero-wine.html#dominio-del-pidio-blanco
+Dominio Del Pidio Tinto,2021,Cillar de Silos,Ribera del Duero,Spain,Red,Tempranillo,75cl,51.40,48.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#dominio-del-pidio-tinto
+La Viña De Amalio,2019,Cillar de Silos,Ribera del Duero,Spain,Red,Tempranillo,75cl,52.40,49.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#la-vina-de-amalio
+Dehesa De Los Canónigos Crianza,2023,Dehesa de los Canónigos,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,21.89,20.85,yes,https://envinando.co.uk/ribera-del-duero-wine.html#dehesa-de-los-canonigos-crianza
+Viridiana,2022,Dominio de Atauta,Ribera del Duero,Spain,Red,Tempranillo,75cl,12.08,11.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#viridiana
+Parada De Atauta,2022,Dominio de Atauta,Ribera del Duero,Spain,Red,Tempranillo,75cl,22.63,21.55,yes,https://envinando.co.uk/ribera-del-duero-wine.html#parada-de-atauta
+Dominio De Atauta,2022,Dominio de Atauta,Ribera del Duero,Spain,Red,Tempranillo,75cl,30.98,29.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#dominio-de-atauta
+PSI,2023,Dominio de Pingus,Ribera del Duero,Spain,Red,Tempranillo,75cl,52.45,49.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#psi
+Flor De Pingus,2023,Dominio de Pingus,Ribera del Duero,Spain,Red,Tempranillo,75cl,157.40,149.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#flor-de-pingus
+Finca Resalso,2025,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,15.23,14.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#finca-resalso
+Emilio Moro,2023,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,24.68,23.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#emilio-moro
+Finca Resalso Magnum,2023,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,1.5L,26.25,25.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#finca-resalso-magnum
+La Felisa,2023,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,27.72,26.40,yes,https://envinando.co.uk/ribera-del-duero-wine.html#la-felisa
+Vendimia Seleccionada,2023,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,29.45,28.05,yes,https://envinando.co.uk/ribera-del-duero-wine.html#vendimia-seleccionada
+Malleolus,2023,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,38.96,37.10,yes,https://envinando.co.uk/ribera-del-duero-wine.html#malleolus
+Emilio Moro Magnum,2019,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,1.5L,51.98,49.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#emilio-moro-magnum
+Malleolus Magnum,2022,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,1.5L,84.00,80.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#malleolus-magnum
+Malleolus De Valderramiro,2022,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,109.20,104.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#malleolus-de-valderramiro
+Malleolus Sanchomartin,2021,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,143.22,136.40,yes,https://envinando.co.uk/ribera-del-duero-wine.html#malleolus-sanchomartin
+Clon De La Familia,2018,Emilio Moro,Ribera del Duero,Spain,Red,Tempranillo,75cl,320.25,305.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#clon-de-la-familia
+Pesquera Crianza,2022,Familia Fdez. Rivera,Ribera del Duero,Spain,Red,Tempranillo,75cl,22.58,21.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#pesquera-crianza
+Pesquera Reserva,2021,Familia Fdez. Rivera,Ribera del Duero,Spain,Red,Tempranillo,75cl,37.75,35.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#pesquera-reserva
+Figuero 4 Meses Roble,2024,Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,13.13,12.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-4-meses-roble
+Figuero 12 Meses Crianza,"2021, 2022",Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,19.43,18.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-12-meses-crianza
+Milagros De Figuero,2020,Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,40.85,38.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#milagros-de-figuero
+Figuero 15 Reserva,2021,Figuero,Ribera del Duero,Spain,Red,Tempranillo,75cl,68.46,65.20,yes,https://envinando.co.uk/ribera-del-duero-wine.html#figuero-15-reserva
+Hacienda Monasterio Crianza,2023,Hacienda Monasterio,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot, Malbec",75cl,41.48,39.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#hacienda-monasterio-crianza
+Hacienda Monasterio Reserva,2020,Hacienda Monasterio,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,63.89,60.85,yes,https://envinando.co.uk/ribera-del-duero-wine.html#hacienda-monasterio-reserva
+Melior,2024,Matarromera,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,12.08,11.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#melior
+Matarromera Crianza,2023,Matarromera,Ribera del Duero,Spain,Red,Tempranillo,75cl,28.30,26.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#matarromera-crianza
+Matarromera Reserva,2022,Matarromera,Ribera del Duero,Spain,Red,Tempranillo,75cl,44.00,41.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#matarromera-reserva
+Matarromera Prestigio,2021,Matarromera,Ribera del Duero,Spain,Red,Tempranillo,75cl,55.60,52.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#matarromera-prestigio
+Pago De Carraovejas Crianza,2023,Pago de Carraovejas,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot",75cl,46.73,44.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#pago-de-carraovejas-crianza
+El Anejón,2021,Pago de Carraovejas,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot",75cl,88.73,84.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#el-anejon
+Pago De Carraovejas Crianza Magnum,2019,Pago de Carraovejas,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet, Merlot",1.5L,120.75,115.00,yes,https://envinando.co.uk/ribera-del-duero-wine.html#pago-de-carraovejas-crianza-magnum
+Cuesta De Las Liebres,2021,Pago de Carraovejas,Ribera del Duero,Spain,Red,"Cabernet Sauvignon, Merlot, Tempranillo",75cl,170.52,162.40,yes,https://envinando.co.uk/ribera-del-duero-wine.html#cuesta-de-las-liebres
+Lara O Blanco Crianza,2021,Territorio Luthier,Ribera del Duero,Spain,Red,Tempranillo,75cl,19.22,18.30,yes,https://envinando.co.uk/ribera-del-duero-wine.html#lara-o-blanco-crianza
+Territorio Luthier,2022,Territorio Luthier,Ribera del Duero,Spain,Red,Tempranillo,75cl,20.95,19.95,yes,https://envinando.co.uk/ribera-del-duero-wine.html#territorio-luthier
+Tomás Postigo Tinto,2023,Tomas Postigo,Ribera del Duero,Spain,Red,"Cabernet Sauvignon, Merlot, Tempranillo",75cl,39.74,37.85,yes,https://envinando.co.uk/ribera-del-duero-wine.html#tomas-postigo-tinto
+Tomás Postigo 5º Año,2020,Tomas Postigo,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot, Malbec",75cl,64.58,61.50,yes,https://envinando.co.uk/ribera-del-duero-wine.html#tomas-postigo-5o-ano
+Tomás Postigo Rebollo,2019,Tomas Postigo,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot, Malbec",75cl,131.83,125.55,yes,https://envinando.co.uk/ribera-del-duero-wine.html#tomas-postigo-rebollo
+Tomás Postigo Vinificación Integral,2018,Tomas Postigo,Ribera del Duero,Spain,Red,"Tempranillo, Cabernet Sauvignon, Merlot, Malbec",75cl,193.78,184.55,yes,https://envinando.co.uk/ribera-del-duero-wine.html#tomas-postigo-vinificacion-integral
+Valduero Una Cepa,2020,Valduero,Ribera del Duero,Spain,Red,Tempranillo,75cl,36.65,34.90,yes,https://envinando.co.uk/ribera-del-duero-wine.html#valduero-una-cepa
+Valduero 6 Años Reserva Premium,2016,Valduero,Ribera del Duero,Spain,Red,Tempranillo,75cl,69.51,66.20,yes,https://envinando.co.uk/ribera-del-duero-wine.html#valduero-6-anos-reserva-premium
+Valbuena 5 Año,2021,Vega Sicilia,Ribera del Duero,Spain,Red,"Tempranillo, Merlot",75cl,230.53,219.55,yes,https://envinando.co.uk/ribera-del-duero-wine.html#valbuena-5-ano
+Viña Pedrosa El Otero,2023,Viña Pedrosa,Ribera del Duero,Spain,Red,Tempranillo,75cl,18.98,18.08,yes,https://envinando.co.uk/ribera-del-duero-wine.html#vina-pedrosa-el-otero
+Luis Cañas,2022,Bodegas Luis Cañas,Rioja,Spain,Red,"Tempranillo, Garnacha",75cl,16.28,15.50,yes,https://envinando.co.uk/rioja-wine.html#luis-canas
+VS Murua,2022,Bodegas Murua,Rioja,Spain,Red,"Tempranillo, Mazuelo",75cl,22.58,21.50,yes,https://envinando.co.uk/rioja-wine.html#vs-murua
+M de Murua,2022,Bodegas Murua,Rioja,Spain,Red,Tempranillo,75cl,36.59,34.85,yes,https://envinando.co.uk/rioja-wine.html#m-de-murua
+Murua Gran Reserva,2016,Bodegas Murua,Rioja,Spain,Red,"Graciano, Tempranillo, Mazuelo",75cl,44.99,42.85,yes,https://envinando.co.uk/rioja-wine.html#murua-gran-reserva
+Ramón Bilbao Crianza,2019,Bodegas Ramon Bilbao,Rioja,Spain,Red,Tempranillo,75cl,15.23,14.50,yes,https://envinando.co.uk/rioja-wine.html#ramon-bilbao-crianza
+Ramón Bilbao Edición Limitada,2019,Bodegas Ramon Bilbao,Rioja,Spain,Red,Tempranillo,75cl,18.38,17.50,yes,https://envinando.co.uk/rioja-wine.html#ramon-bilbao-edicion-limitada
+Ramón Bilbao Viñedos De Altura,2018,Bodegas Ramon Bilbao,Rioja,Spain,Red,"Tempranillo, Garnacha",75cl,18.38,17.50,yes,https://envinando.co.uk/rioja-wine.html#ramon-bilbao-vinedos-de-altura
+Ramón Bilbao Reserva Original,2016,Bodegas Ramon Bilbao,Rioja,Spain,Red,Tempranillo,75cl,20.90,19.90,yes,https://envinando.co.uk/rioja-wine.html#ramon-bilbao-reserva-original
+Sela,2023,Bodegas Roda,Rioja,Spain,Red,"Tempranillo, Garnacha, Graciano",75cl,22.05,21.00,yes,https://envinando.co.uk/rioja-wine.html#sela
+Roda,2020,Bodegas Roda,Rioja,Spain,Red,"Tempranillo, Garnacha, Graciano",75cl,41.48,39.50,yes,https://envinando.co.uk/rioja-wine.html#roda
+Roda I,2022,Bodegas Roda,Rioja,Spain,Red,"Tempranillo, Graciano",75cl,60.90,58.00,yes,https://envinando.co.uk/rioja-wine.html#roda-i
+Cirsion,2022,Bodegas Roda,Rioja,Spain,Red,"Graciano, Tempranillo",75cl,223.65,213.00,yes,https://envinando.co.uk/rioja-wine.html#cirsion
+Valenciso Cemento,2021,Bodegas Valenciso,Rioja,Spain,Red,Tempranillo,75cl,19.11,18.20,yes,https://envinando.co.uk/rioja-wine.html#valenciso-cemento
+Valenciso Reserva,2019,Bodegas Valenciso,Rioja,Spain,Red,Tempranillo,75cl,28.77,27.40,yes,https://envinando.co.uk/rioja-wine.html#valenciso-reserva
+Valenciso Graciano,2020,Bodegas Valenciso,Rioja,Spain,Red,Graciano,75cl,39.17,37.30,yes,https://envinando.co.uk/rioja-wine.html#valenciso-graciano
+Valenciso Reserva Diez años después Edición Limitada,2015,Bodegas Valenciso,Rioja,Spain,Red,Tempranillo,75cl,61.27,58.35,yes,https://envinando.co.uk/rioja-wine.html#valenciso-reserva-diez-anos-despues-edicion-limitada
+Remelluri Reserva,2016,La Granja de Remelluri,Rioja,Spain,Red,"Tempranillo, Garnacha, Graciano",75cl,30.98,29.50,yes,https://envinando.co.uk/rioja-wine.html#remelluri-reserva
+Marqués De Murrieta Reserva,2018,Marqués de Murrieta,Rioja,Spain,Red,"Tempranillo, Graciano, Mazuelo, Garnacha",75cl,25.73,24.50,yes,https://envinando.co.uk/rioja-wine.html#marques-de-murrieta-reserva
+Marqués De Murrieta Reserva Magnum,2017,Marqués de Murrieta,Rioja,Spain,Red,"Tempranillo, Graciano, Mazuelo, Garnacha",1.5L,57.00,54.29,yes,https://envinando.co.uk/rioja-wine.html#marques-de-murrieta-reserva-magnum
+La Garnacha de Hielo,2019,Proyecto Garnachas de España,Rioja,Spain,Sweet red,Garnacha,75cl,66.05,62.90,yes,https://envinando.co.uk/rioja-wine.html#la-garnacha-de-hielo
+San Vicente,2020,Señorío de San Vicente,Rioja,Spain,Red,Tempranillo,75cl,45.68,43.50,yes,https://envinando.co.uk/rioja-wine.html#san-vicente
+Sierra Cantabria Crianza,2021,Sierra Cantabria,Rioja,Spain,Red,Tempranillo,75cl,13.13,12.50,yes,https://envinando.co.uk/rioja-wine.html#sierra-cantabria-crianza
+Sierra Cantabria El Bosque,2022,Sierra Cantabria,Rioja,Spain,Red,Tempranillo,75cl,102.38,97.50,yes,https://envinando.co.uk/rioja-wine.html#sierra-cantabria-el-bosque
+Sierra Cantabria Amancio,2019/2020/2021,Sierra Cantabria,Rioja,Spain,Red,Tempranillo,75cl,103.95,99.00,yes,https://envinando.co.uk/rioja-wine.html#sierra-cantabria-amancio
+Sierra Cantabria Mágico,2017/2020,Sierra Cantabria,Rioja,Spain,Red,Tempranillo,75cl,572.25,545.00,yes,https://envinando.co.uk/rioja-wine.html#sierra-cantabria-magico
+Macán Clásico,2022,Vega Sicilia,Rioja,Spain,Red,Tempranillo,75cl,48.72,46.40,yes,https://envinando.co.uk/rioja-wine.html#macan-clasico
+Macán,2021,Vega Sicilia,Rioja,Spain,Red,Tempranillo,75cl,83.90,79.90,yes,https://envinando.co.uk/rioja-wine.html#macan
+Camins del Priorat,2023,Álvaro Palacios,Priorat,Spain,Red,"Garnacha, Cariñena, Syrah, Cabernet",75cl,26.78,25.50,yes,https://envinando.co.uk/priorat-wine.html#camins-del-priorat
+Mar De Frades Albariño,2025,Bodegas Mar de Frades,Rías Baixas,Spain,White,Albariño,75cl,22.05,21.00,yes,https://envinando.co.uk/rias-baixas-wine.html#mar-de-frades-albarino
+Mar de Frades Godello,2023,Bodegas Mar de Frades,Rías Baixas,Spain,White,Godello,75cl,26.78,25.50,yes,https://envinando.co.uk/rias-baixas-wine.html#mar-de-frades-godello
+Fillaboa Albariño,2025,Fillaboa,Rías Baixas,Spain,White,Albariño,75cl,19.36,18.44,yes,https://envinando.co.uk/rias-baixas-wine.html#fillaboa-albarino
+Fillaboa Selección Monte Alto,2023,Fillaboa,Rías Baixas,Spain,White,Albariño,75cl,29.66,28.25,yes,https://envinando.co.uk/rias-baixas-wine.html#fillaboa-seleccion-monte-alto
+La Fillaboa 1898 Albariño,2022,Fillaboa,Rías Baixas,Spain,White,Albariño,75cl,83.53,79.55,yes,https://envinando.co.uk/rias-baixas-wine.html#la-fillaboa-1898-albarino
+O Filo Da Condesa,2024,Lagar Da Condesa,Rías Baixas,Spain,White,Albariño,75cl,11.76,11.20,yes,https://envinando.co.uk/rias-baixas-wine.html#o-filo-da-condesa
+Lagar Da Condesa,2023,Lagar Da Condesa,Rías Baixas,Spain,White,Albariño,75cl,18.06,17.20,yes,https://envinando.co.uk/rias-baixas-wine.html#lagar-da-condesa
+Circe Verdejo,2025,Avelino Vegas,Rueda,Spain,White,Verdejo,75cl,13.13,12.50,yes,https://envinando.co.uk/rueda-wine.html#circe-verdejo
+Blanco Nieva Pie Franco,2025,Blanco Nieva,Rueda,Spain,White,Verdejo,75cl,12.71,12.10,yes,https://envinando.co.uk/rueda-wine.html#blanco-nieva-pie-franco
+Castelo de Medina Verdejo,2025,Bodegas Castelo de Medina,Rueda,Spain,White,Verdejo,75cl,8.61,8.20,yes,https://envinando.co.uk/rueda-wine.html#castelo-de-medina-verdejo
+Jose Pariente Verdejo,2025,Bodegas Jose Pariente,Rueda,Spain,White,Verdejo,75cl,14.65,13.95,yes,https://envinando.co.uk/rueda-wine.html#jose-pariente-verdejo
+Jose Pariente Sauvignon Blanc,2025,Bodegas Jose Pariente,Rueda,Spain,White,Sauvignon Blanc,75cl,14.65,13.95,yes,https://envinando.co.uk/rueda-wine.html#jose-pariente-sauvignon-blanc
+José Pariente Verdejo Fermentado en Barrica,2020,Bodegas Jose Pariente,Rueda,Spain,White,Verdejo,75cl,22.58,21.50,yes,https://envinando.co.uk/rueda-wine.html#jose-pariente-verdejo-fermentado-en-barrica
+Ramon Bilbao Verdejo,2025,Bodegas Ramon Bilbao,Rueda,Spain,White,Verdejo,75cl,12.08,11.50,yes,https://envinando.co.uk/rueda-wine.html#ramon-bilbao-verdejo
+J. Fernando Verdejo,2025,J. Fernando Family Wines,Rueda,Spain,White,Verdejo,75cl,12.08,11.50,yes,https://envinando.co.uk/rueda-wine.html#j-fernando-verdejo
+J. Fernando Sauvignon Blanc,2024,J. Fernando Family Wines,Rueda,Spain,White,Sauvignon Blanc,75cl,11.97,11.40,yes,https://envinando.co.uk/rueda-wine.html#j-fernando-sauvignon-blanc
+J. Fernando Verdejo Vendimia Seleccionada,2025,J. Fernando Family Wines,Rueda,Spain,White,Verdejo,75cl,13.13,12.50,yes,https://envinando.co.uk/rueda-wine.html#j-fernando-verdejo-vendimia-seleccionada
+José Pariente Cuvée Especial,2020,José Pariente,Rueda,Spain,White,Verdejo,75cl,25.41,24.20,yes,https://envinando.co.uk/rueda-wine.html#jose-pariente-cuvee-especial
+Tomás Postigo Fermentado en Barrica,2023,Tomas Postigo,Rueda,Spain,White,Verdejo,75cl,32.03,30.50,yes,https://envinando.co.uk/rueda-wine.html#tomas-postigo-fermentado-en-barrica
+Tomás Postigo Verdejo Fermentado en Barrica,2024,Tomás Postigo,Rueda,Spain,White,Verdejo,75cl,33.55,31.95,yes,https://envinando.co.uk/rueda-wine.html#tomas-postigo-verdejo-fermentado-en-barrica
+Polvorete,2025,Emilio Moro,Bierzo,Spain,White,Godello,75cl,15.23,14.50,yes,https://envinando.co.uk/bierzo-wine.html#polvorete
+El Zarzal Godello,2024,Emilio Moro,Bierzo,Spain,White,Godello,75cl,17.69,16.85,yes,https://envinando.co.uk/bierzo-wine.html#el-zarzal-godello
+La Revelía,2023,Emilio Moro,Bierzo,Spain,White,Godello,75cl,31.82,30.30,yes,https://envinando.co.uk/bierzo-wine.html#la-revelia
+Un Culín Vino de Villa de Valtuille de Abajo,2023,José Antonio García,Bierzo,Spain,Red,Mencía,75cl,13.85,13.19,yes,https://envinando.co.uk/bierzo-wine.html#un-culin-vino-de-villa-de-valtuille-de-abajo
+Godello – Doña Blanca,2024,José Antonio García,Bierzo,Spain,White,"Godello, Doña Blanca",75cl,18.38,17.50,yes,https://envinando.co.uk/bierzo-wine.html#godello-dona-blanca
+Godello Viñas Viejas,2024,José Antonio García,Bierzo,Spain,White,Godello,75cl,27.20,25.90,yes,https://envinando.co.uk/bierzo-wine.html#godello-vinas-viejas
+Julia Vinificación Singular,2022,José Antonio García,Bierzo,Spain,Red,Mencía,75cl,27.83,26.50,yes,https://envinando.co.uk/bierzo-wine.html#julia-vinificacion-singular
+Corullón Vino de Villa de Corullón,2022,José Antonio García,Bierzo,Spain,Red,Mencía,75cl,41.90,39.90,yes,https://envinando.co.uk/bierzo-wine.html#corullon-vino-de-villa-de-corullon
+Palomino de Corullón Vino de Villa De Corullón,2022,José Antonio García,Bierzo,Spain,White,Palomino,75cl,97.13,92.50,yes,https://envinando.co.uk/bierzo-wine.html#palomino-de-corullon-vino-de-villa-de-corullon
+El Pájaro Rojo,2021,Losada,Bierzo,Spain,Red,Mencía,75cl,12.08,11.50,yes,https://envinando.co.uk/bierzo-wine.html#el-pajaro-rojo
+Losada,2022,Losada,Bierzo,Spain,Red,Mencía,75cl,13.55,12.90,yes,https://envinando.co.uk/bierzo-wine.html#losada
+Altos De Losada,2022,Losada,Bierzo,Spain,Red,Mencía,75cl,20.00,19.05,yes,https://envinando.co.uk/bierzo-wine.html#altos-de-losada
+Altos de Losada Godello,2021,Losada,Bierzo,Spain,White,Godello,75cl,29.93,28.50,yes,https://envinando.co.uk/bierzo-wine.html#altos-de-losada-godello
+Mauro Valeyo,2021,Mauro,Bierzo,Spain,Red,Tempranillo blend,75cl,36.70,34.95,yes,https://envinando.co.uk/bierzo-wine.html#mauro-valeyo
+Rapolao Vino de Paraje,2019,Vinos Valtuille,Bierzo,Spain,Red,Mencía,75cl,35.10,33.43,yes,https://envinando.co.uk/bierzo-wine.html#rapolao-vino-de-paraje
+Lapola,2021,Dominio do Bibei,Ribeira Sacra,Spain,White,"Godello, Albariño, Doña Blanca",75cl,24.05,22.90,yes,https://envinando.co.uk/ribeira-sacra-wine.html#lapola
+Lalume,2023,Dominio do Bibei,Ribeiro,Spain,Red,Mencía blend,75cl,19.90,18.95,yes,https://envinando.co.uk/ribeiro-wine.html#lalume
+San Clodio,2024,San Clodio,Ribeiro,Spain,White,Treixadura,75cl,14.39,13.70,yes,https://envinando.co.uk/ribeiro-wine.html#san-clodio
+San Román,2022,Bodegas Mauro,Toro,Spain,Red,Tinta de Toro,75cl,37.75,35.95,yes,https://envinando.co.uk/toro-wine.html#san-roman
+Loquillo,2020,Bodegas y Viñedos Divina Proporción,Toro,Spain,Red,"Tinta de Toro, Cabernet Sauvignon",75cl,12.08,11.50,yes,https://envinando.co.uk/toro-wine.html#loquillo
+24 Mozas,2023,Bodegas y Viñedos Divina Proporción,Toro,Spain,Red,Tinta de Toro,75cl,13.13,12.50,yes,https://envinando.co.uk/toro-wine.html#24-mozas
+Madremía,2018,Bodegas y Viñedos Divina Proporción,Toro,Spain,Red,Tinta de Toro,75cl,15.23,14.50,yes,https://envinando.co.uk/toro-wine.html#madremia
+Dominio Del Bendito (El Primer Paso),2024,Dominio Del Bendito,Toro,Spain,Red,Tinta de Toro,75cl,17.33,16.50,yes,https://envinando.co.uk/toro-wine.html#dominio-del-bendito-el-primer-paso
+Dominio Del Bendito (Las Sabias),2023,Dominio Del Bendito,Toro,Spain,Red,Tinta de Toro,75cl,23.36,22.25,yes,https://envinando.co.uk/toro-wine.html#dominio-del-bendito-las-sabias
+Titán Del Bendito,2022,Dominio Del Bendito,Toro,Spain,Red,Tinta de Toro,75cl,56.39,53.70,yes,https://envinando.co.uk/toro-wine.html#titan-del-bendito
+San Román Malvasía,2021,Maurodos,Toro,Spain,White,Malvasía,75cl,40.90,38.95,yes,https://envinando.co.uk/toro-wine.html#san-roman-malvasia
+San Román Garnacha,2019/2020,Maurodos,Toro,Spain,Red,Garnacha,75cl,43.58,41.50,yes,https://envinando.co.uk/toro-wine.html#san-roman-garnacha
+San Román Cartago,2020,Maurodos,Toro,Spain,Red,Tinta de Toro,75cl,78.75,75.00,yes,https://envinando.co.uk/toro-wine.html#san-roman-cartago
+Numanthia Termes,2022,Numanthia,Toro,Spain,Red,Tinta de Toro,75cl,25.73,24.50,yes,https://envinando.co.uk/toro-wine.html#numanthia-termes
+Numanthia Termanthia,2014,Numanthia,Toro,Spain,Red,Tinta de Toro,75cl,231.00,220.00,yes,https://envinando.co.uk/toro-wine.html#numanthia-termanthia
+Pintia,2021,Vega Sicilia,Toro,Spain,Red,Tinta de Toro,75cl,81.17,77.30,yes,https://envinando.co.uk/toro-wine.html#pintia
+Laya,2024,Bodegas Atalaya,Almansa,Spain,Red,"Garnacha Tintorera, Monastrell",75cl,12.08,11.50,yes,https://envinando.co.uk/almansa-wine.html#laya
+El Vigía de la Atalaya,,Bodegas Atalaya,Almansa,Spain,Red,Garnacha Tintorera,75cl,11.03,10.50,yes,https://envinando.co.uk/almansa-wine.html#el-vigia-de-la-atalaya
+Atalaya Del Camino,2023,Bodegas Atalaya,Almansa,Spain,Red,"Garnacha Tintorera, Monastrell",75cl,17.33,16.50,yes,https://envinando.co.uk/almansa-wine.html#atalaya-del-camino
+Alaya Tierra,2023,Bodegas Atalaya,Almansa,Spain,Red,Garnacha Tintorera,75cl,25.94,24.70,yes,https://envinando.co.uk/almansa-wine.html#alaya-tierra
+Alto Moncayo Veraton,2021,Alto Moncayo,Campo de Borja,Spain,Red,Garnacha,75cl,23.10,22.00,yes,https://envinando.co.uk/campo-de-borja-wine.html#alto-moncayo-veraton
+Alto Moncayo,2021,Alto Moncayo,Campo de Borja,Spain,Red,Garnacha,75cl,37.75,35.95,yes,https://envinando.co.uk/campo-de-borja-wine.html#alto-moncayo
+Alto Moncayo Aquilón,2017,Alto Moncayo,Campo de Borja,Spain,Red,Garnacha,75cl,121.80,116.00,yes,https://envinando.co.uk/campo-de-borja-wine.html#alto-moncayo-aquilon
+Flor De Goda,2025,Bodegas Morca,Campo de Borja,Spain,Red,Garnacha,75cl,13.13,12.50,yes,https://envinando.co.uk/campo-de-borja-wine.html#flor-de-goda
+Godina,2023,Bodegas Morca,Campo de Borja,Spain,Red,Garnacha,75cl,23.94,22.80,yes,https://envinando.co.uk/campo-de-borja-wine.html#godina
+Morca,2023,Bodegas Morca,Campo de Borja,Spain,Red,Garnacha,75cl,36.44,34.70,yes,https://envinando.co.uk/campo-de-borja-wine.html#morca
+Morca Touran,2022,Bodegas Morca,Campo de Borja,Spain,Red,Garnacha,75cl,106.26,101.20,yes,https://envinando.co.uk/campo-de-borja-wine.html#morca-touran
+Atteca Armas,2022,Atteca,Calatayud,Spain,Red,Garnacha,75cl,34.13,32.50,yes,https://envinando.co.uk/calatayud-wine.html#atteca-armas
+Atteca,2022,Bodegas Atteca,Calatayud,Spain,Red,Garnacha,75cl,13.23,12.60,yes,https://envinando.co.uk/calatayud-wine.html#atteca
+Reina de los Deseos,2018,Comando G,Vinos de Madrid,Spain,Red,Garnacha,75cl,81.38,77.50,yes,https://envinando.co.uk/vinos-de-madrid-wine.html#reina-de-los-deseos
+El Hombre Bala,2024,Uvas Felices,Vinos de Madrid,Spain,Red,"Garnacha, Cariñena",75cl,26.83,25.55,yes,https://envinando.co.uk/vinos-de-madrid-wine.html#el-hombre-bala
+La Mujer Cañón,2023,Uvas Felices,Vinos de Madrid,Spain,Red,Garnacha,75cl,122.22,116.40,yes,https://envinando.co.uk/vinos-de-madrid-wine.html#la-mujer-canon
+Vinculo Crianza,2021,Alejandro Fernandez,La Mancha,Spain,Red,Tempranillo,75cl,15.23,14.50,yes,https://envinando.co.uk/la-mancha-wine.html#vinculo-crianza
+Vinculo Reserva,2022,Alejandro Fernandez,La Mancha,Spain,Red,Tempranillo,75cl,20.48,19.50,yes,https://envinando.co.uk/la-mancha-wine.html#vinculo-reserva
+Campo Amable Crianza,2021,Bodegas Altovela,La Mancha,Spain,Red,Tempranillo,75cl,11.03,10.50,yes,https://envinando.co.uk/la-mancha-wine.html#campo-amable-crianza
+Campo Amable Reserva,2020,Bodegas Altovela,La Mancha,Spain,Red,Tempranillo,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#campo-amable-reserva
+Blas Muñoz Chardonnay,2025,Bodegas Blas Muñoz,La Mancha,Spain,White,Chardonnay,75cl,17.33,16.50,yes,https://envinando.co.uk/la-mancha-wine.html#blas-munoz-chardonnay
+Pingorote Crianza,2019,Bodegas Latue,La Mancha,Spain,Red,Tempranillo,75cl,13.13,12.50,yes,https://envinando.co.uk/la-mancha-wine.html#pingorote-crianza
+Puente de Rus Viognier,2024,Bodegas Puente de Rus,La Mancha,Spain,White,Viognier,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-viognier
+Puente de Rus Verdejo,2024,Bodegas Puente de Rus,La Mancha,Spain,White,Verdejo,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-verdejo
+Puente de Rus Sauvignon Blanc,2024,Bodegas Puente de Rus,La Mancha,Spain,White,Sauvignon Blanc,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-sauvignon-blanc
+Puente de Rus Airén,2024,Bodegas Puente de Rus,La Mancha,Spain,White,Airén,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-airen
+Puente de Rus Muscatel Airén Semi-Sweet,2022,Bodegas Puente de Rus,La Mancha,Spain,White semi-sweet,"Muscat, Airén",75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-muscatel-airen-semi-sweet
+Puente de Rus Rosado Moravia,2022,Bodegas Puente de Rus,La Mancha,Spain,Rosé,Moravia,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-rosado-moravia
+Puente de Rus Moravia Rosé Semi-Sweet,2024,Bodegas Puente de Rus,La Mancha,Spain,Rosé semi-sweet,Moravia,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-moravia-rose-semi-sweet
+Puente de Rus Tempranillo,2024,Bodegas Puente de Rus,La Mancha,Spain,Red,Tempranillo,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-tempranillo
+Puente de Rus Syrah,2024,Bodegas Puente de Rus,La Mancha,Spain,Red,Syrah,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-syrah
+Puente de Rus Cabernet Sauvignon,2024,Bodegas Puente de Rus,La Mancha,Spain,Red,Cabernet Sauvignon,75cl,12.08,11.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-cabernet-sauvignon
+Puente de Rus Sparkling Brut Nature,,Bodegas Puente de Rus,La Mancha,Spain,Sparkling,Macabeo,75cl,14.18,13.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-sparkling-brut-nature
+Puente de Rus Sparkling Brut Rosé,2024,Bodegas Puente de Rus,La Mancha,Spain,Sparkling rosé,Moravia,75cl,14.18,13.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-sparkling-brut-rose
+Puente de Rus Crianza,2021,Bodegas Puente de Rus,La Mancha,Spain,Red,Tempranillo,75cl,16.28,15.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-crianza
+Puente de Rus Reserva,2020,Bodegas Puente de Rus,La Mancha,Spain,Red,Tempranillo,75cl,30.98,29.50,yes,https://envinando.co.uk/la-mancha-wine.html#puente-de-rus-reserva
+Ojos De Guadiana Crianza,2019,El Progreso,La Mancha,Spain,Red,Tempranillo,75cl,11.03,10.50,yes,https://envinando.co.uk/la-mancha-wine.html#ojos-de-guadiana-crianza
+Ojos De Guadiana Reserva,2017,El Progreso,La Mancha,Spain,Red,Tempranillo,75cl,13.13,12.50,yes,https://envinando.co.uk/la-mancha-wine.html#ojos-de-guadiana-reserva
+Finca Antigua Crianza Syrah,2020,Finca Antigua,La Mancha,Spain,Red,Syrah,75cl,13.13,12.50,yes,https://envinando.co.uk/la-mancha-wine.html#finca-antigua-crianza-syrah
+Finca Antigua Viura Sobre Lias,2021,Finca Antigua,La Mancha,Spain,White,Viura,75cl,13.13,12.50,yes,https://envinando.co.uk/la-mancha-wine.html#finca-antigua-viura-sobre-lias
+Finca Antigua Crianza Multivarietal,2016,Finca Antigua,La Mancha,Spain,Red,"Tempranillo, Merlot, Cabernet, Syrah",75cl,18.78,17.89,yes,https://envinando.co.uk/la-mancha-wine.html#finca-antigua-crianza-multivarietal
+Alejairen,2023,Vínculo,La Mancha,Spain,White,Airén,75cl,16.28,15.50,yes,https://envinando.co.uk/la-mancha-wine.html#alejairen
+Finca Rio Negro Gewurztraminer,2020,Bodega Finca Rio Negro,Castilla · La Mancha VT,Spain,White,Gewürztraminer,75cl,16.75,15.95,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#finca-rio-negro-gewurztraminer
+Finca Río Negro,2016,Bodega Finca Rio Negro,Castilla · La Mancha VT,Spain,Red,"Tempranillo, Cabernet, Syrah, Merlot",75cl,17.85,17.00,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#finca-rio-negro
+Finca Río Negro 5 Año,2020,Bodega Finca Rio Negro,Castilla · La Mancha VT,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,35.70,34.00,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#finca-rio-negro-5-ano
+Amigos Rosado,2025,Bodegas Barreda,Castilla · La Mancha VT,Spain,Rosé,"Cabernet, Syrah, Tempranillo",75cl,13.13,12.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#amigos-rosado
+Amigos Blanco Airen,2023,Bodegas Barreda,Castilla · La Mancha VT,Spain,White,Airén,75cl,11.03,10.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#amigos-blanco-airen
+Torre De Barreda Amigos,2018,Bodegas Barreda,Castilla · La Mancha VT,Spain,Red,Tempranillo blend,75cl,11.45,10.90,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#torre-de-barreda-amigos
+Torre De Barreda Pañofino,2022,Bodegas Barreda,Castilla · La Mancha VT,Spain,Red,Tempranillo blend,75cl,19.43,18.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#torre-de-barreda-panofino
+Clearly Organic Airén & Sauvignon Blanc,2022,Bodegas Latue,Castilla · La Mancha VT,Spain,White,"Airén, Sauvignon Blanc",75cl,9.08,8.65,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#clearly-organic-airen-sauvignon-blanc
+Venta La Ossa Syrah,2019,Bodegas Mano A Mano,Castilla · La Mancha VT,Spain,Red,Syrah,75cl,14.16,13.49,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#venta-la-ossa-syrah
+Venta La Ossa Tempranillo,2018,Bodegas Mano A Mano,Castilla · La Mancha VT,Spain,Red,Tempranillo,75cl,15.65,14.90,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#venta-la-ossa-tempranillo
+Venta La Ossa TNT,2019,Bodegas Mano A Mano,Castilla · La Mancha VT,Spain,Red,"Touriga Nacional, Tempranillo",75cl,20.88,19.89,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#venta-la-ossa-tnt
+Volver,2023,Bodegas Volver,Castilla · La Mancha VT,Spain,Red,Tempranillo,75cl,10.92,10.40,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#volver
+Hacienda Albae Cabernet Sauvignon,2020,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Cabernet Sauvignon,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-cabernet-sauvignon
+Hacienda Albae Chardonnay,2023,Hacienda Albae,Castilla · La Mancha VT,Spain,White,Chardonnay,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-chardonnay
+Hacienda Albae Malbec,2021,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Malbec,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-malbec
+Hacienda Albae Merlot,2021,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Merlot,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-merlot
+Hacienda Albae Syrah,2023,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Syrah,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-syrah
+Hacienda Albae Tempranillo,2021,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Tempranillo,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-tempranillo
+Hacienda Albae Viognier,2024,Hacienda Albae,Castilla · La Mancha VT,Spain,White,Viognier,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-viognier
+Hacienda Albae Malbec Rosé,,Hacienda Albae,Castilla · La Mancha VT,Spain,Rosé,Malbec,75cl,12.13,11.55,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-malbec-rose
+Hacienda Albae Grand Viognier,,Hacienda Albae,Castilla · La Mancha VT,Spain,White,Viognier,75cl,18.51,17.63,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-grand-viognier
+Hacienda Albae Grand Chardonnay,,Hacienda Albae,Castilla · La Mancha VT,Spain,White,Chardonnay,75cl,18.51,17.63,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-grand-chardonnay
+Hacienda Albae Grand Tempranillo,,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Tempranillo,75cl,18.51,17.63,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-grand-tempranillo
+Hacienda Albae Grand Cabernet Sauvignon,,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Cabernet Sauvignon,75cl,18.51,17.63,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-grand-cabernet-sauvignon
+Hacienda Albae Diablar Syrah,,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,Syrah,75cl,18.51,17.63,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-diablar-syrah
+Hacienda Albae Top 888,,Hacienda Albae,Castilla · La Mancha VT,Spain,Red,"Cabernet Sauvignon, Merlot, Syrah",75cl,38.17,36.35,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#hacienda-albae-top-888
+El Linze,2024,Lucendo Seleccion,Castilla · La Mancha VT,Spain,Red,"Tinta Velasco, Syrah",75cl,31.45,29.95,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#el-linze
+Manuel Manzaneque Chardonnay,2023,Manuel Manzaneque,Castilla · La Mancha VT,Spain,White,Chardonnay,75cl,18.85,17.95,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#manuel-manzaneque-chardonnay
+La Plazuela,2019,Mas que Vinos,Castilla · La Mancha VT,Spain,Red,"Tempranillo, Cabernet Sauvignon",75cl,40.43,38.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#la-plazuela
+Ponteus Blanco,2020,Nuestra Señora de Rus,Castilla · La Mancha VT,Spain,White,Chardonnay,75cl,15.23,14.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#ponteus-blanco
+Colmillo De Lobo,2020,Nuestra Señora de Rus,Castilla · La Mancha VT,Spain,Red,Tempranillo blend,75cl,16.28,15.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#colmillo-de-lobo
+Vista de Halcón,2020,Nuestra Señora de Rus,Castilla · La Mancha VT,Spain,White,White blend,75cl,16.28,15.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#vista-de-halcon
+Paso De Buey,2019,Nuestra Señora de Rus,Castilla · La Mancha VT,Spain,Red,Tempranillo blend,75cl,17.33,16.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#paso-de-buey
+Ponteus Tinto,2019,Nuestra Señora de Rus,Castilla · La Mancha VT,Spain,Red,Tempranillo blend,75cl,26.78,25.50,yes,https://envinando.co.uk/castilla-la-mancha-vino-de-la-tierra-wine.html#ponteus-tinto
+VQ Verdejo,2026,J. Fernando Family Wines,Castilla,Spain,White,Verdejo,75cl,11.03,10.50,yes,https://envinando.co.uk/castilla-wine.html#vq-verdejo
+J. Fernando Tempranillo 6 Meses,2025,J. Fernando Family Wines,Castilla,Spain,Red,Tempranillo,75cl,12.08,11.50,yes,https://envinando.co.uk/castilla-wine.html#j-fernando-tempranillo-6-meses
+Flor Salvaje,,J. Fernando Family Wines,Castilla,Spain,Sparkling (frizzante),Verdejo,75cl,14.18,13.50,yes,https://envinando.co.uk/castilla-wine.html#flor-salvaje
+VQ Sauvignon Blanc,2026,J. Fernando Family Wines,Castilla,Spain,White,Sauvignon Blanc,75cl,12.08,11.50,yes,https://envinando.co.uk/castilla-wine.html#vq-sauvignon-blanc
+J. Fernando Chardonnay,2024,J. Fernando Family Wines,Castilla,Spain,White,Chardonnay,75cl,14.18,13.50,yes,https://envinando.co.uk/castilla-wine.html#j-fernando-chardonnay
+J. Fernando La Familia,2024,J. Fernando Family Wines,Castilla,Spain,Red,"Tempranillo, Cabernet Sauvignon, Garnacha",75cl,16.28,15.50,yes,https://envinando.co.uk/castilla-wine.html#j-fernando-la-familia
+J. Fernando Chardonnay 3 Meses,2022,J. Fernando Family Wines,Castilla,Spain,White,Chardonnay,75cl,17.33,16.50,yes,https://envinando.co.uk/castilla-wine.html#j-fernando-chardonnay-3-meses
+Viñedos de la Cuesta,,J. Fernando Family Wines,Castilla,Spain,Red,Tempranillo,75cl,18.38,17.50,yes,https://envinando.co.uk/castilla-wine.html#vinedos-de-la-cuesta
+Dedalo Espumoso Ancestral,2023,Lucendo Seleccion,Castilla,Spain,Sparkling,Airén,75cl,13.13,12.50,yes,https://envinando.co.uk/castilla-wine.html#dedalo-espumoso-ancestral
+Corambres Alto de los Bailones,2024,Lucendo Seleccion,Castilla,Spain,Red,Tempranillo,75cl,15.23,14.50,yes,https://envinando.co.uk/castilla-wine.html#corambres-alto-de-los-bailones
+Dédalo Pieles,2021,Lucendo Seleccion,Castilla,Spain,Orange,Airén,75cl,18.43,17.55,yes,https://envinando.co.uk/castilla-wine.html#dedalo-pieles
+Manuel Manzaneque,2023,Manuel Manzaneque,Castilla,Spain,Red,"Tempranillo, Cabernet blend",75cl,18.85,17.95,yes,https://envinando.co.uk/castilla-wine.html#manuel-manzaneque
+Mauro,2023,Bodegas Mauro,Castilla y León,Spain,Red,"Tempranillo, Syrah",75cl,44.47,42.35,yes,https://envinando.co.uk/castilla-y-leon-wine.html#mauro
+Mauro VS,2022,Mauro,Castilla y León,Spain,Red,Tempranillo,75cl,71.35,67.95,yes,https://envinando.co.uk/castilla-y-leon-wine.html#mauro-vs
+Mauro Terreus,2021,Mauro,Castilla y León,Spain,Red,"Tempranillo, Garnacha",75cl,104.95,99.95,yes,https://envinando.co.uk/castilla-y-leon-wine.html#mauro-terreus
+Paco Mulero Tempranillo,2020,Paco Mulero,Castilla y León,Spain,Red,Tempranillo,75cl,11.50,10.95,yes,https://envinando.co.uk/castilla-y-leon-wine.html#paco-mulero-tempranillo
+Corcovo Muscat Petit Grain,2025,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,White,Moscatel de Grano Menudo,75cl,11.03,10.50,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-muscat-petit-grain
+Corcovo Syrah,2021,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,Red,Syrah,75cl,11.03,10.50,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-syrah
+Corcovo Verdejo,2025,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,White,Verdejo,75cl,11.03,10.50,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-verdejo
+Corcovo Crianza,2019,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,Red,Tempranillo,75cl,11.45,10.90,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-crianza
+Corcovo Reserva,2021,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,Red,Tempranillo,75cl,12.08,11.50,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-reserva
+Corcovo 24 Barricas Airén,2021,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,White,Airén,75cl,12.50,11.90,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-24-barricas-airen
+Corcovo 24 Barricas Syrah,2024,Bodegas J.A. Megia e Hijos,Valdepeñas,Spain,Red,Syrah,75cl,15.23,14.50,yes,https://envinando.co.uk/valdepenas-wine.html#corcovo-24-barricas-syrah
+Peñahueca Roble,2023,Casa de la Nava,Valdepeñas,Spain,Red,Tempranillo (Cencibel),75cl,11.03,10.50,yes,https://envinando.co.uk/valdepenas-wine.html#penahueca-roble
+Airen Viñas Viejas Media Legua,2024,Casa de la Nava,Valdepeñas,Spain,White,Airén,75cl,14.06,13.39,yes,https://envinando.co.uk/valdepenas-wine.html#airen-vinas-viejas-media-legua
+Casa de la Nava Crianza,2023,Casa de la Nava,Valdepeñas,Spain,Red,Tempranillo,75cl,18.10,17.24,yes,https://envinando.co.uk/valdepenas-wine.html#casa-de-la-nava-crianza
+Jose Manuel Corrales Crianza,2023,Jose Manuel Corrales,Valdepeñas,Spain,Red,Tempranillo,75cl,31.50,30.00,yes,https://envinando.co.uk/valdepenas-wine.html#jose-manuel-corrales-crianza
+Ximenez Spinola PX Cosecha,2018,Ximenez Spinola,Jerez,Spain,White,Pedro Ximénez,75cl,41.53,39.55,yes,https://envinando.co.uk/jerez-wine.html#ximenez-spinola-px-cosecha
+Ximenez Spinola Very Old,2019,Ximenez Spinola,Jerez,Spain,Sweet,Pedro Ximénez,75cl,67.78,64.55,yes,https://envinando.co.uk/jerez-wine.html#ximenez-spinola-very-old
+Asensio Carcelen 100×100 Monastrell,2022,Asensio Carcelen,Jumilla,Spain,Red,Monastrell,75cl,12.08,11.50,yes,https://envinando.co.uk/jumilla-wine.html#asensio-carcelen-100-100-monastrell
+Asensio Carcelen 100×100 Syrah,2023,Asensio Carcelen,Jumilla,Spain,Red,Syrah,75cl,12.08,11.50,yes,https://envinando.co.uk/jumilla-wine.html#asensio-carcelen-100-100-syrah
+Pura Sangre,2016,Asensio Carcelen,Jumilla,Spain,Red,Monastrell,75cl,16.91,16.10,yes,https://envinando.co.uk/jumilla-wine.html#pura-sangre
+Juan Gil Etiqueta Amarilla,2024,Bodegas Juan Gil,Jumilla,Spain,Red,Monastrell,75cl,11.50,10.95,yes,https://envinando.co.uk/jumilla-wine.html#juan-gil-etiqueta-amarilla
+Juan Gil Etiqueta Plata,2023,Bodegas Juan Gil,Jumilla,Spain,Red,Monastrell,75cl,18.38,17.50,yes,https://envinando.co.uk/jumilla-wine.html#juan-gil-etiqueta-plata
+Juan Gil Etiqueta Azul,2023,Bodegas Juan Gil,Jumilla,Spain,Red,"Monastrell, Cabernet Sauvignon, Syrah",75cl,25.57,24.35,yes,https://envinando.co.uk/jumilla-wine.html#juan-gil-etiqueta-azul
+Juan Gil Etiqueta Azul Cuvée Á,2023,Bodegas Juan Gil,Jumilla,Spain,Red,"Monastrell, Cabernet Sauvignon, Syrah",75cl,34.13,32.50,yes,https://envinando.co.uk/jumilla-wine.html#juan-gil-etiqueta-azul-cuvee-a
+Juan Gil Bruto,2021,Bodegas Juan Gil,Jumilla,Spain,Red,Monastrell blend,75cl,37.28,35.50,yes,https://envinando.co.uk/jumilla-wine.html#juan-gil-bruto
+Clio,2023,El Nido,Jumilla,Spain,Red,"Monastrell, Cabernet Sauvignon",75cl,48.25,45.95,yes,https://envinando.co.uk/jumilla-wine.html#clio
+El Nido,2023,El Nido,Jumilla,Spain,Red,"Cabernet Sauvignon, Monastrell",75cl,145.95,139.00,yes,https://envinando.co.uk/jumilla-wine.html#el-nido
+Paco Mulero Monastrell,2022,Paco Mulero,Jumilla,Spain,Red,Monastrell,75cl,14.02,13.35,yes,https://envinando.co.uk/jumilla-wine.html#paco-mulero-monastrell
+Paco Mulero 20 Meses Monastrell,2023,Paco Mulero,Jumilla,Spain,Red,"Monastrell, Cabernet Sauvignon, Syrah",75cl,30.45,29.00,yes,https://envinando.co.uk/jumilla-wine.html#paco-mulero-20-meses-monastrell
+Habla La Tierra,2024,Bodegas Habla,Extremadura,Spain,Red,,75cl,9.98,9.50,yes,https://envinando.co.uk/extremadura-wine.html#habla-la-tierra
+Habla De Ti,2025,Bodegas Habla,Extremadura,Spain,White,Sauvignon Blanc,75cl,13.13,12.50,yes,https://envinando.co.uk/extremadura-wine.html#habla-de-ti
+Habla Del Silencio,2023,Bodegas Habla,Extremadura,Spain,Red,,75cl,15.23,14.50,yes,https://envinando.co.uk/extremadura-wine.html#habla-del-silencio
+Habla del Mar,2024,Habla,Extremadura,Spain,White,Sauvignon Blanc blend,75cl,19.32,18.40,yes,https://envinando.co.uk/extremadura-wine.html#habla-del-mar
+Habla Duende,2021,Habla,Extremadura,Spain,White,Sauvignon Blanc,75cl,29.40,28.00,yes,https://envinando.co.uk/extremadura-wine.html#habla-duende
+Abadía Retuerta La Domaine,2023,Abadía Retuerta,Pago Abadía Retuerta,Spain,White,Sauvignon Blanc,75cl,41.95,39.95,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#abadia-retuerta-la-domaine
+Abadia Retuerta Seleccion Especial,2021,D.O.P. Abadia Retuerta,Pago Abadía Retuerta,Spain,Red,"Tempranillo, Cabernet, Syrah",75cl,36.23,34.50,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#abadia-retuerta-seleccion-especial
+Le Domaine,2019,D.O.P. Abadia Retuerta,Pago Abadía Retuerta,Spain,White,"Verdejo, Sauvignon Blanc",75cl,47.25,45.00,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#le-domaine
+Pago Garduña,2019,D.O.P. Abadia Retuerta,Pago Abadía Retuerta,Spain,Red,Syrah,75cl,104.90,99.90,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#pago-garduna
+Pago Valdebellon,2020,D.O.P. Abadia Retuerta,Pago Abadía Retuerta,Spain,Red,Cabernet Sauvignon,75cl,125.90,119.90,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#pago-valdebellon
+Pago Negralada,2019,D.O.P. Abadia Retuerta,Pago Abadía Retuerta,Spain,Red,Tempranillo,75cl,125.90,119.90,yes,https://envinando.co.uk/pago-abadia-retuerta-wine.html#pago-negralada
+Marqués De Griñon Summa Varietalis,2019,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Multi-varietal,75cl,19.32,18.40,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-summa-varietalis
+Marqués De Griñon Petit Verdot,2022,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Petit Verdot,75cl,26.83,25.55,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-petit-verdot
+Marqués De Griñon Cabernet Sauvignon,2022,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Cabernet Sauvignon,75cl,26.83,25.55,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-cabernet-sauvignon
+Marqués De Griñon Syrah,2021,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Syrah,75cl,26.83,25.55,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-syrah
+Marqués De Griñon Emeritus,2019,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Multi-varietal,75cl,47.83,45.55,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-emeritus
+Marqués De Griñon AAA,2018,Dominio de Valdepusa,Pago Valdepusa,Spain,Red,Multi-varietal,75cl,176.35,167.95,yes,https://envinando.co.uk/pago-valdepusa-wine.html#marques-de-grinon-aaa
+Balancines Gold Crianza,2019,Pago de los Balancines,Ribera del Guadiana,Spain,Red,"Tempranillo, Syrah, Cabernet Sauvignon",75cl,9.98,9.50,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#balancines-gold-crianza
+Balancines Roble Sobre Lias,2024,Pago de los Balancines,Ribera del Guadiana,Spain,White,Viura,75cl,12.97,12.35,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#balancines-roble-sobre-lias
+Balancines Garnacha & Garnacha,2022,Pago de los Balancines,Ribera del Guadiana,Spain,Red,Garnacha,75cl,14.39,13.70,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#balancines-garnacha-garnacha
+Huno Reserva,2019,Pago de los Balancines,Ribera del Guadiana,Spain,Red,"Tempranillo, Garnacha Tintorera, Graciano",75cl,14.75,14.05,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#huno-reserva
+Haragan,2018,Pago de los Balancines,Ribera del Guadiana,Spain,Red,"Tinta Roriz, Garnacha Tintorera",75cl,27.83,26.50,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#haragan
+Balancines Alunado,2022,Pago de los Balancines,Ribera del Guadiana,Spain,White,Chardonnay,75cl,31.76,30.25,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#balancines-alunado
+Barbas de Gata,2020,Pago de los Balancines,Ribera del Guadiana,Spain,Red,Garnacha,75cl,32.24,30.70,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#barbas-de-gata
+Mastines Cabernet Indigena,2020,Pago de los Balancines,Ribera del Guadiana,Spain,Red,Cabernet Sauvignon,75cl,47.25,45.00,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#mastines-cabernet-indigena
+Mastines Garnacha Tintorera,2018,Pago de los Balancines,Ribera del Guadiana,Spain,Red,Garnacha Tintorera,75cl,47.25,45.00,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#mastines-garnacha-tintorera
+Mastines Garnacha Salvaje,2018,Pago de los Balancines,Ribera del Guadiana,Spain,Red,Garnacha Tintorera,75cl,47.25,45.00,yes,https://envinando.co.uk/ribera-del-guadiana-wine.html#mastines-garnacha-salvaje
+Viña Zorzal Graciano,2023,Viña Zorzal,Navarra,Spain,Red,Graciano,75cl,12.08,11.50,yes,https://envinando.co.uk/navarra-wine.html#vina-zorzal-graciano
+Viña Zorzal Garnacha,2025,Viña Zorzal,Navarra,Spain,Red,Garnacha,75cl,12.08,11.50,yes,https://envinando.co.uk/navarra-wine.html#vina-zorzal-garnacha
+Corral De Los Altos,2024,Viña Zorzal,Navarra,Spain,Red,Garnacha,75cl,15.23,14.50,yes,https://envinando.co.uk/navarra-wine.html#corral-de-los-altos
+Unexpected Garnacha,2024,Finca Aylés,Pago Aylés,Spain,Red,Garnacha,75cl,12.08,11.50,yes,https://envinando.co.uk/pago-ayles-wine.html#unexpected-garnacha
+Unexpected Syrah,2019,Finca Aylés,Pago Aylés,Spain,Red,Syrah,75cl,15.23,14.50,yes,https://envinando.co.uk/pago-ayles-wine.html#unexpected-syrah
+Cuesta Del Herrero,2023,Finca Aylés,Pago Aylés,Spain,Red,"Garnacha, Tempranillo, Cabernet, Merlot",75cl,15.23,14.50,yes,https://envinando.co.uk/pago-ayles-wine.html#cuesta-del-herrero
+Senda De Leñadores,2021,Finca Aylés,Pago Aylés,Spain,Red,"Garnacha, Tempranillo, Cabernet, Merlot",75cl,17.33,16.50,yes,https://envinando.co.uk/pago-ayles-wine.html#senda-de-lenadores
+Enate Chardonnay,2025,Enate,Somontano,Spain,White,Chardonnay,75cl,13.13,12.50,yes,https://envinando.co.uk/somontano-wine.html#enate-chardonnay
+Enate Blanco Gewurztraminer,2021,Enate,Somontano,Spain,White,Gewürztraminer,75cl,15.23,14.50,yes,https://envinando.co.uk/somontano-wine.html#enate-blanco-gewurztraminer
+Enate Blanco Chardonnay Fermentado En Barrica,2023,Enate,Somontano,Spain,White,Chardonnay,75cl,19.95,19.00,yes,https://envinando.co.uk/somontano-wine.html#enate-blanco-chardonnay-fermentado-en-barrica
+Viñas Bastardas,2023,Casa Rojo,Murcia IGP,Spain,Red,"Monastrell, Cabernet",75cl,16.28,15.50,yes,https://envinando.co.uk/murcia-igp-wine.html#vinas-bastardas
+Enemigo Mio,2025,Casa Rojo,Murcia IGP,Spain,Red,Garnacha,75cl,17.33,16.50,yes,https://envinando.co.uk/murcia-igp-wine.html#enemigo-mio
+Martúe,2019,Martue,Pago Campo de la Guardia,Spain,Red,"Syrah, Cabernet, Petit Verdot, Malbec, Merlot",75cl,13.13,12.50,yes,https://envinando.co.uk/pago-campo-de-la-guardia-wine.html#martue
+Martúe Especial,2017,Martue,Pago Campo de la Guardia,Spain,Red,"Syrah, Cabernet, Petit Verdot, Malbec, Merlot",75cl,14.12,13.45,yes,https://envinando.co.uk/pago-campo-de-la-guardia-wine.html#martue-especial
+Martúe Syrah,2017,Martue,Pago Campo de la Guardia,Spain,Red,Syrah,75cl,19.01,18.10,yes,https://envinando.co.uk/pago-campo-de-la-guardia-wine.html#martue-syrah
+Pago Florentino,2023,Bodegas Arzuaga Navarro,Pago Florentino,Spain,Red,Tempranillo (Cencibel),75cl,16.28,15.50,yes,https://envinando.co.uk/pago-florentino-wine.html#pago-florentino
+Guarda Cantón,NV,Bodegas Tradición,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,51.98,49.50,yes,https://envinando.co.uk/spanish-brandy.html#guarda-canton
+Tradición Solera Gran Reserva,NV,Bodegas Tradición,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,104.48,99.50,yes,https://envinando.co.uk/spanish-brandy.html#tradicion-solera-gran-reserva
+Tradición Platinum Solera Gran Reserva,NV,Bodegas Tradición,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,399.00,380.00,yes,https://envinando.co.uk/spanish-brandy.html#tradicion-platinum-solera-gran-reserva
+Lepanto PX Solera Gran Reserva,NV,González Byass,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,53.24,50.70,yes,https://envinando.co.uk/spanish-brandy.html#lepanto-px-solera-gran-reserva
+Lustau Solera Gran Reserva,NV,Lustau,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,28.88,27.50,yes,https://envinando.co.uk/spanish-brandy.html#lustau-solera-gran-reserva
+Carlos I,NV,Osborne,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,28.30,26.95,yes,https://envinando.co.uk/spanish-brandy.html#carlos-i
+Torres 10 Gran Reserva,NV,Torres,Spanish Brandy,Spain,Spanish brandy,Catalan brandy,75cl,13.60,12.95,yes,https://envinando.co.uk/spanish-brandy.html#torres-10-gran-reserva
+Gran Duque de Alba,NV,Williams & Humbert,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,31.40,29.90,yes,https://envinando.co.uk/spanish-brandy.html#gran-duque-de-alba
+Ximénez-Spínola Battonage,NV,Ximénez-Spínola,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,45.10,42.95,yes,https://envinando.co.uk/spanish-brandy.html#ximenez-spinola-battonage
+"Ximénez-Spínola 10,000 Botellas",NV,Ximénez-Spínola,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,87.73,83.55,yes,https://envinando.co.uk/spanish-brandy.html#ximenez-spinola-10-000-botellas
+"Ximénez-Spínola 3,000 Botellas",NV,Ximénez-Spínola,Spanish Brandy,Spain,Spanish brandy,Brandy de Jerez,75cl,178.03,169.55,yes,https://envinando.co.uk/spanish-brandy.html#ximenez-spinola-3-000-botellas
