@@ -170,6 +170,20 @@ body{font-family:'Georgia',serif;background:var(--bg);color:var(--txt);display:f
 <div class="sidebar-footer">315 wines · 30 regions · 11 brandies</div>
 </nav>
 <main id="main">
+<!-- envinando black friday: start -->
+<style id="env-bf-css">
+#env-bf{display:none;margin:0 0 16px;background:#111;color:#fff;border-radius:12px;padding:14px 20px;font-family:Georgia,serif;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;box-shadow:0 8px 22px rgba(0,0,0,.18)}
+#env-bf .bf-t{font-size:20px;letter-spacing:.04em}#env-bf .bf-t b{color:#e9c77d;letter-spacing:.12em}
+#env-bf .bf-s{font-size:14px;color:#ddd;margin-top:3px}
+#env-bf .bf-c{font-size:14px;color:#e9c77d;white-space:nowrap}#env-bf .bf-c span{font-size:20px;font-weight:700;color:#fff}
+#env-bf .bf-x{font-size:12px;color:#bbb;margin-top:3px}
+</style>
+<div id="env-bf"><div><div class="bf-t"><b>BLACK FRIDAY</b> · 15% off all wines &amp; brandies · 5% off mixed cases</div><div class="bf-s">Applied automatically in your basket — no code needed. Order now for Christmas.</div></div><div style="text-align:right"><div class="bf-c">Ends in <span id="bf-cd">–</span></div><div class="bf-x">Ends Monday 30 November, midnight</div></div></div>
+<script>(function(){var F=Date.parse('2026-11-25T00:00:00Z'),T=Date.parse('2026-12-01T00:00:00Z');function on(){var n=Date.now();return n>=F&&n<T}
+function tick(){var el=document.getElementById('env-bf');if(!on()){el.style.display='none';return}el.style.display='flex';var d=T-Date.now(),dd=Math.floor(d/864e5),hh=Math.floor(d%864e5/36e5),mm=Math.floor(d%36e5/6e4);document.getElementById('bf-cd').textContent=(dd?dd+'d ':'')+hh+'h '+mm+'m'}
+tick();setInterval(tick,30000);
+document.addEventListener('DOMContentLoaded',function(){if(!on())return;var it=document.querySelector('.intro');if(it)it.innerHTML='Tap any wine to read about it. Prices shown are per bottle when you buy 6 of the same wine (3–5 bottles: +3%; 1–2 bottles: +5%). <strong>Black Friday: 15% off every wine and brandy and 5% off mixed cases, applied automatically in My selection</strong> until Monday 30 November. Pay by card or send your order on WhatsApp. All prices include UK duty and VAT. <strong>Free delivery on orders of £150 or more</strong>; below that, delivery is £10.80 per box of 6 bottles.';var k=document.querySelector('#env-hero .eh-kick');if(k)k.innerHTML='<span style="background:#111;color:#e9c77d;padding:4px 10px;border-radius:4px;letter-spacing:.2em">Black Friday · 15% off</span>'})})();</script>
+<!-- envinando black friday: end -->
 <!-- envinando hero: start -->
 <style id="env-hero-css">
 #env-hero{margin:0 0 26px;font-family:Georgia,serif}
@@ -281,6 +295,8 @@ function syncButtons(){document.querySelectorAll('.btn-add').forEach(b=>{const k
 function updateCartCount(){const t=Object.values(cart).reduce((s,i)=>s+i.qty,0);document.getElementById('cart-count').textContent=t;const m=document.getElementById('cart-count-mobile');if(m)m.textContent=t}
 function openCart(){closeWine();renderCart();document.getElementById('cart-overlay').classList.add('open')}
 function closeCart(){document.getElementById('cart-overlay').classList.remove('open')}
+const PROMO={from:Date.parse('2026-11-25T00:00:00Z'),to:Date.parse('2026-12-01T00:00:00Z'),wine:0.15,lot:0.05};
+function promoNow(){const t=Date.now();return t>=PROMO.from&&t<PROMO.to?PROMO:null}
 let discountActive=false;
 function toggleDiscount(){discountActive=!discountActive;renderCart()}
 function itemTotal(i){return i.lot?r2(i.precio*i.qty):lineFor(i.precio,i.qty)}
@@ -289,7 +305,7 @@ function totals(){
   let wines=0,lots=0,bottles=0,lotBoxes=0;
   items.forEach(([k,i])=>{const t=itemTotal(i);if(i.lot){lots+=t;lotBoxes+=i.qty}else{wines+=t;bottles+=i.qty}});
   wines=r2(wines);lots=r2(lots);
-  const disc=discountActive?r2(wines*0.10):0;
+  const pr=promoNow();const disc=pr?r2(r2(wines*pr.wine)+r2(lots*pr.lot)):(discountActive?r2(wines*0.10):0);
   const goods=r2(wines-disc+lots);
   const boxes=lotBoxes+Math.ceil(bottles/BOX_SIZE);
   const shipping=goods>=FREE_FROM?0:r2(boxes*BOX_PRICE);
@@ -305,12 +321,12 @@ function renderCart(){
     const img=item.img?`<img src="${item.img}" style="width:38px;height:50px;object-fit:contain;border-radius:4px;flex-shrink:0;background:#f4ede0">`:'<div style="width:38px;height:50px;background:var(--border);border-radius:4px;flex-shrink:0"></div>';
     return `<div class="cart-item">${img}<div class="cart-item-name">${esc(item.nombre)}<div class="cart-item-ano">${unitNote(item)}</div></div><div class="cart-qty"><button onclick="changeQty('${ke}',-1)">−</button><span>${item.qty}</span><button onclick="changeQty('${ke}',1)">+</button></div><div style="min-width:58px;text-align:right;font-weight:bold">${gbp(itemTotal(item))}</div></div>`
   }).join('');
-  db.style.display=t.wines>0?'block':'none';
+  db.style.display=(t.wines>0&&!promoNow())?'block':'none';
   db.textContent=discountActive?'✓ 10% discount applied':'🏷️ Apply 10% discount';
   db.style.background=discountActive?'#5a9e6f':'var(--gold)';
   let h='';
   if(t.wines>0)h+=row('Wines:',gbp(t.wines));
-  if(t.disc>0)h+=row('10% discount on wines:','−'+gbp(t.disc),'#5a9e6f');
+  if(t.disc>0)h+=row(promoNow()?'🖤 Black Friday (−15% wines, −5% cases):':'10% discount on wines:','−'+gbp(t.disc),'#5a9e6f');
   if(t.lots>0)h+=row('Mixed cases:',gbp(t.lots));
   if(t.shipping===0)h+=row('🚚 Delivery:','Free','#5a9e6f');
   else{h+=row(`Delivery (${t.boxes} ${t.boxes===1?'box':'boxes'} × ${gbp(BOX_PRICE)}):`,gbp(t.shipping));
@@ -325,7 +341,7 @@ function waMessage(t,ref){
   t.items.forEach(([k,i])=>{m+=i.lot?`• ${i.nombre} × ${i.qty} = ${gbp(itemTotal(i))}\n`:`• ${i.nombre} (${i.ano}) × ${i.qty} @ ${gbp(unitFor(i.precio,i.qty))} = ${gbp(itemTotal(i))}\n`});
   m+='\n';
   if(t.wines>0)m+=`Wines: ${gbp(t.wines)}\n`;
-  if(t.disc>0)m+=`10% discount: −${gbp(t.disc)}\n`;
+  if(t.disc>0)m+=(promoNow()?'Black Friday discount':'10% discount')+`: −${gbp(t.disc)}\n`;
   if(t.lots>0)m+=`Mixed cases: ${gbp(t.lots)}\n`;
   m+=t.shipping===0?'Delivery: free\n':`Delivery (${t.boxes} ${t.boxes===1?'box':'boxes'}): ${gbp(t.shipping)}\n`;
   m+=`*Total: ${gbp(t.total)}*`;
@@ -360,7 +376,7 @@ function openWine(i){
   ${w.f?`<p class="wm-pair"><b>Pairs with:</b> ${esc(w.f)}</p>`:''}
   <p style="margin:6px 0 0;font-size:13px"><a href="/${wslug(w.n)}.html" style="color:var(--accent)">Full details &amp; tasting notes →</a></p>
   <div class="wm-buy">${opt(1,'1 bottle')}${opt(3,'3 bottles')}${opt(6,'6 bottles · 1 box')}</div>
-  <div class="wm-note">Best price when you buy 6 of the same wine. Mix and match freely — delivery is free from £150.</div>
+  <div class="wm-note">Best price when you buy 6 of the same wine. Mix and match freely — delivery is free from £150.${promoNow()?' <b style="color:#8b2c2c">Black Friday: a further 15% off is taken in your basket.</b>':''}</div>
   <div class="wm-added" id="wm-added"></div></div></div>`;
   document.getElementById('wine-modal').classList.add('open');
 }
